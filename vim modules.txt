@@ -1,0 +1,18 @@
+CHEAT SHEET 
+
+ping       -> check connectivity
+copy       -> copy file
+file       -> create directory
+service    -> manage services
+apt        -> install package
+stat       -> check file
+
+
+BEST MEMORY TRICK :
+
+Server check  -> ping
+Run command   -> shell/command
+Manage file   -> copy/file/stat
+Install app   -> apt/yum
+Manage app    -> service/systemd
+Manage user   -> user/group
